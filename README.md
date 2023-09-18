@@ -1,74 +1,8 @@
 # Employee-_Payslip_Checker
 Employee Payslip Checker is a c based Demo Model System
 You can see the demo :
-//Input Set
+//Input data
+![image](https://github.com/sabyasachiroy1/Employee-_Payslip_Checker/assets/110336884/e4c706f6-a7d4-41ba-9281-41d460b0f821)
 
-<body>
-    
-     <th>Demo Employees Details</th>
-   
-    <table border="2" cellpadding="8">
-        
-        <thead>
-            <th> Employee Id </th>
-            <th> Password </th>
-            <th> Employee Name </th>
-            <th>Designation </th>
-            <th>  Salary </th>
-        </thead>
-        <tbody>
-            <tr>
-                <td>91100</td>
-                <td>1289</td>
-                <td>M. Das</td>
-                <td>It Assistant</td>
-                <td>26000</td>
-            </tr>
-            <tr>
-                <td>96101</td>
-                <td>10089</td>
-                <td>C. roy</td>
-                <td>It Devloper</td>
-                <td>28000</td>
-            </tr>
-            <tr>
-                <td>93103</td>
-                <td>1008</td>
-                <td>R. Bose</td>
-                <td> Programmer</td>
-                <td>30000</td>
-            </tr>
-            <tr>
-                <td>91104</td>
-                <td>21089</td>
-                <td>S. Das</td>
-                <td>Support</td>
-                <td>36000</td>
-            </tr>
-            <tr>
-                <td>81104</td>
-                <td>980089</td>
-                <td>R. Bose</td>
-                <td>Consultant</td>
-                <td>45000</td>
-            </tr>
-            <tr>
-                <td>96108</td>
-                <td>94565
-                </td>
-                <td>B. Banerjee</td>
-                <td>Hr</td>
-                <td>28000</td>
-            </tr>
-            <tr>
-                <td>1029</td>
-                <td>5648332</td>
-                <td>-</td>
-                <td>Admin</td>
-                <td>-</td>
-            </tr>
-        </tbody>
-       </table>
-</body>
 Link -1 --->  <a href="http://tpcg.io/_HXVU6X"> Show Me</a>
 Link -2 --->  <a href="https://onlinegdb.com/su0vqXlQt"> Show Me</a>
